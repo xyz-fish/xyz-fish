@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#### HI, 一老年前端er
+
+- 🔭 中年转入前端
+- 🌱 目前在上海
+- 🤔 人生是一个不断学习的过程
+- 😄 朝闻道夕死矣
+
+从零开始
+见证自己的成长
