@@ -16,10 +16,9 @@ Here are some ideas to get you started:
 -->
 #### HI, 一老年前端er
 
-- 🔭 中年转入前端
+- 🔭 转入前端
 - 🌱 目前在上海
 - 🤔 人生是一个不断学习的过程
 - 😄 朝闻道夕死矣
 
-从零开始
-见证自己的成长
+[掘金](https://juejin.cn/user/1063982985657805) [B站](https://space.bilibili.com/318139053)
